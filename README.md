@@ -1,5 +1,8 @@
 
-
+![](https://img.shields.io/github/issues/ycd/linkedin-invite-automation?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/github/forks/ycd/linkedin-invite-automation?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/github/stars/ycd/linkedin-invite-automation?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/github/license/ycd/linkedin-invite-automation?style=for-the-badge&logo=appveyor)
 
 **Install requirements**
 
