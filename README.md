@@ -1,3 +1,6 @@
+
+
+
 **Install requirements**
 
     git clone https://github.com/ycd/linkedin-invite-automation.git
@@ -12,3 +15,6 @@
  - Change the `webdriver` location
 
  **You are ready to go.**
+ 
+
+    python bot.py
