@@ -1,3 +1,4 @@
+import chromedriver_autoinstaller
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
@@ -14,7 +15,9 @@ keywords = ["enter","the","keywords"]
 def get_browser():
     """Load the browser"""
     global browser
-    browser = webdriver.Chrome("/home/yagiz/Videos/chromedriver")
+    chromedriver_autoinstaller.install()
+    # Register the driver
+    browser = webdriver.Chrome()
     # browser.get("https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2F&fromSignIn=true&trk=cold_join_sign_in")
     browser.get(r"https://linkedin.com")
 
