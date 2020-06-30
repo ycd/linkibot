@@ -8,7 +8,7 @@
 
     git clone https://github.com/ycd/linkedin-invite-automation.git
     cd linkedin-invite-automation
-    source env/bin/activate
+    pip install -r requirements.txt
   
     
 **Get started**
@@ -21,3 +21,15 @@
  
 
     python bot.py
+
+
+## Contributors ✨
+Thanks goes to these wonderful people :balloon::balloon:
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/SteveEmmanuel"><img src="https://avatars0.githubusercontent.com/u/5548487?s=460&v=4" width="100px;" alt=""/><br /><sub><b>SteveEmmanuel</b></sub></a><br /><a href="https://github.com/ycd/linkedin-invite-automation/commits?author=SteveEmmanuel" title="Code">💻</a></td>
+  </tr>
+</table>
+
+This project follows the all-contributors specification. Contributions of any kind welcome!
