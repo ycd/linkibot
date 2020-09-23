@@ -15,7 +15,6 @@
  - Change your `email`  in line 8
  - Change your `password` in line 9
  - Add the `keywords` that you wanna filter in line 10
- - Change the `webdriver` location
 
  **You are ready to go.**
  
