@@ -1,12 +1,12 @@
 # Linkibot - A small automation tool.
 
-##### How it works?
+## How it works?
 
 
 ![](assets/profile.png)
 
 This is a random person, he has a title with **Sr. Software Engineer | Consultant**
-
+---
 Linkibot checks the persons title, if you put the **sr** keyword in that keywords list, it will send an invite to him. If you put **engineer** to the keywords list, it will send an invite to him. 
 
 It's that easy. 
