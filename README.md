@@ -38,4 +38,4 @@ bot.run()
 ## License
 ---
 
-Apache 2.0. See [LICENSE](https://github.com/ycd/linkedin-invite-automation/blob/master/LICENSE)
+Apache 2.0. See [LICENSE](https://github.com/ycd/linkibot/blob/master/LICENSE)
